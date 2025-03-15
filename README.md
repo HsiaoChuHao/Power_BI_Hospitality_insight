@@ -26,11 +26,14 @@ Real.(Realisation)
 [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU1YmZhMDctMzZiNi00YWU5LThjYTYtMThiMzBiNDNkOTM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 basic metrics analysis  
-<kbd> [](https://github.com/HsiaoChuHao/Power_BI_Hospitality_insight/blob/main/basic_analysis.png)
+<kbd> ![](https://github.com/HsiaoChuHao/Power_BI_Hospitality_insight/blob/main/basic_analysis.png)
 
 key metrics analysis
+<kbd> ![](https://github.com/HsiaoChuHao/Power_BI_Hospitality_insight/blob/main/metrics%20analysis.png)
+  
+**Data modeling**  
+<kbd> ![](https://github.com/HsiaoChuHao/Power_BI_Hospitality_insight/blob/main/data%20model.png)
 
-**Data modeling**
 
 Challenge:[links](https://codebasics.io/challenge/codebasics-resume-project-challenge/4)
 
