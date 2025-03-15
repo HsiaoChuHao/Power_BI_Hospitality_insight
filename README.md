@@ -25,9 +25,10 @@ Real.(Realisation)
 ### About the Power BI Dashboard
 [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU1YmZhMDctMzZiNi00YWU5LThjYTYtMThiMzBiNDNkOTM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-page 1
+basic metrics analysis  
+<kbd> [](https://github.com/HsiaoChuHao/Power_BI_Hospitality_insight/blob/main/basic_analysis.png)
 
-page 2 (contain more metrics analysis)
+key metrics analysis
 
 **Data modeling**
 
